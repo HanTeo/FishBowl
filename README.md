@@ -1,3 +1,5 @@
+![CI (conda)](https://github.com/HanTeo/FishBowl/workflows/CI%20(conda)/badge.svg)
+
 # Fish Bowl
 A predator-prey simulator that aims to simulate very simple ecosystem.
 
